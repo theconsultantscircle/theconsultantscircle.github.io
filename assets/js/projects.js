@@ -23,7 +23,7 @@ let render_projects = (slug) => {
             image: 'assets/images/fatima.jpg',
             link: 'https://www.linkedin.com/in/fatima-elzahra-khan',
             title: 'Fatima Khan',
-            technologies: ['Incoming Associate 2021'],
+            technologies: ['Associate'],
             description: "Final year Chemical Engineering student at Imperial.",
             categories: ['outreach']
         },
@@ -32,7 +32,7 @@ let render_projects = (slug) => {
             image: 'assets/images/fatima.jpg',
             link: 'https://www.linkedin.com/in/fatima-elzahra-khan',
             title: 'Fatima Khan',
-            technologies: ['Incoming Associate 2021'],
+            technologies: ['Director'],
             description: "Final year Chemical Engineering student at Imperial.",
             categories: ['programme']
         },
