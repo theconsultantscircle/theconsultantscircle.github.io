@@ -478,6 +478,12 @@ a {
   margin-right: 0px;
 }
 
+.projects-wrapper
+{
+	margin:auto;
+}
+
+
 /* Here follow all the media queries */
 @media screen and (max-width: 850px) {
 
