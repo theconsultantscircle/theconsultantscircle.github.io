@@ -44,11 +44,8 @@
 }
  
 .card__image {
-	display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
 	min-height: 100px;
+	  width: 100%;
     background-color: #eee;
     max-height: 180px;
 	overflow: hidden;
